@@ -1,0 +1,2 @@
+This is the template I will use to develop materials for my art class. So what I am basically doing is loading the site with 
+images and then invite my classmates to say something what they know about them.
